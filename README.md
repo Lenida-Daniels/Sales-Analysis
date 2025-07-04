@@ -51,18 +51,21 @@
   ### Year Sales
 - This bar chart shows the yearly sales. 2021 has more sales than 2022.
 - if you look at the quarterly and monthly sales below you'll realize that 2021 has a full year while 2021 only has 3 months(Q1).
+  
   ![Yearly Sales](images/Yearly_sales.png)
 
   ### Quarterly Sales
 - This line graph shows quarterly sales.
 - Sales peak in Q4,2021, with noticeable drop in Q2.
 - 2022 only has Q1.
+  
   ![Quarterly Sales](images/Quarterly_Sales_by_Year.png)
 
   ### Monthly sales
 - This line graph shows monthly sales.
 - 2021 shows a seasonal sales pattern where the last quarter (Oct–Dec) performed the best
 - Early 2022 started off strong but seems to be declining.
+  
    ![Monthly Sales](images/Monthly_Sales_by_Year.png)
 
   ## Insights
